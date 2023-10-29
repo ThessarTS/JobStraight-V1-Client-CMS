@@ -1,0 +1,1 @@
+export const SUCCESS_FETCH_COMPANIES = 'companies/success_fetch'
